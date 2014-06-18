@@ -1,0 +1,12 @@
+compile
+sum(1,2,3,4)
+sum(1,2,3,4);
+sum(List(1,2,0))
+test
+ls
+test
+import example.Lists._
+scala
+console
+compile
+cd../../../
